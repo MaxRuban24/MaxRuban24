@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**MaxRuban24/MaxRuban24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ✨ I’m an IT Support Engineer/System Administrator passionate about self-development and curious around Tech World.
+- 🌱 I’m currently learning DevOps philosophy and toolset to bring modern approaches and help develop great IT products in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+    - 📧 rubanmax550@gmail.com
+    - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/maksym-ruban/)
+
+- 💙💛 Please support Ukraine! [UNITED 24](https://u24.gov.ua/)
+
+#### Thanks and have a good day! 😊
